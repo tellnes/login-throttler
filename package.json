@@ -1,0 +1,28 @@
+{
+  "name": "login-throttler",
+  "version": "0.0.0",
+  "description": "login-throttler",
+  "main": "index.js",
+  "dependencies": {
+    "addr": "~1.0.0",
+    "ip": "0.0.5",
+    "debug": "~0.7.2"
+  },
+  "devDependencies": {
+    "express": "~3.2.0",
+    "passport": "~0.1.16",
+    "passport-local": "~0.1.6"
+  },
+  "optionalDependencies": {
+    "mysql": "~2.0.0-alpha7"
+  },
+  "scripts": {},
+  "repository": "git://github.com/tellnes/login-throttler.git",
+  "keywords": [],
+  "author": {
+    "name": "Christian Tellnes",
+    "email": "christian@tellnes.no",
+    "url": "http://christian.tellnes.com"
+  },
+  "license": "MIT"
+}
