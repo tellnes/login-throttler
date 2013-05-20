@@ -1,6 +1,6 @@
 {
   "name": "login-throttler",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "login-throttler",
   "main": "index.js",
   "dependencies": {
